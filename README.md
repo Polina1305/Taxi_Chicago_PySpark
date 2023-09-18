@@ -21,7 +21,7 @@
  - NumPy
  - Matplotlib
  - Statsmodels
- - 
+ - Folium
 ## **Используемые данные:**
 Для работы над проектом мы используем данные с Чикагского информационного портала:
  - [2022 г.](https://data.cityofchicago.org/Transportation/Taxi-Trips-2022/npd7-ywjz)
